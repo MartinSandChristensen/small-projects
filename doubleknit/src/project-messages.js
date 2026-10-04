@@ -1,0 +1,28 @@
+export const enGB = {
+  'projectUI.title': 'Projects',
+  'projectUI.browserOnly': 'Patterns are saved automatically in this browser. Download an editable pattern to keep a backup or move to another device.',
+  'projectUI.copy': 'Make a copy',
+  'projectUI.download': 'Save pattern to file',
+  'projectUI.import': 'Open a pattern file',
+  'projectUI.yourPatterns': 'Your patterns',
+  'projectUI.empty': 'Your saved patterns will appear here.',
+  'projectUI.saved': 'Saved in this browser',
+  'projectUI.cancel': 'Cancel',
+  'projectUI.unsavedOpen': 'Your current changes have not been saved to a project. Download them first if you want to keep them. Open another pattern?',
+  'projectUI.deleteConfirm': 'Delete “{name}” from this browser? Download a backup first if you want to keep it. If this is your current pattern, it stays on screen as an unsaved draft.',
+  'projectUI.deletedDraft': 'Project deleted. Your current draft remains on screen. Choose Make a copy to save it as a new project.',
+};
+export const da = {
+  'projectUI.title': 'Projekter',
+  'projectUI.browserOnly': 'Mønstre gemmes automatisk i denne browser. Hent et redigerbart mønster som sikkerhedskopi eller for at bruge det på en anden enhed.',
+  'projectUI.copy': 'Lav en kopi',
+  'projectUI.download': 'Gem mønster til fil',
+  'projectUI.import': 'Åbn en mønsterfil',
+  'projectUI.yourPatterns': 'Dine mønstre',
+  'projectUI.empty': 'Dine gemte mønstre vises her.',
+  'projectUI.saved': 'Gemt i denne browser',
+  'projectUI.cancel': 'Annuller',
+  'projectUI.unsavedOpen': 'Dine aktuelle ændringer er ikke gemt i et projekt. Hent dem først, hvis du vil beholde dem. Åbn et andet mønster?',
+  'projectUI.deleteConfirm': 'Slet “{name}” fra denne browser? Hent en sikkerhedskopi først, hvis du vil beholde det. Hvis det er dit aktuelle mønster, bliver det på skærmen som en ugemt kladde.',
+  'projectUI.deletedDraft': 'Projektet er slettet. Din aktuelle kladde bliver på skærmen. Vælg Lav en kopi for at gemme den som et nyt projekt.',
+};
